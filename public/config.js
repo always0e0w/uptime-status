@@ -32,10 +32,6 @@ window.Config = {
     {
       text: 'Homepage',
       url: 'https://whitehole.dev/'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
     }
   ]
 };
